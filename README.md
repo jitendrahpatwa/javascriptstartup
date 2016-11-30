@@ -1,3 +1,3 @@
 # javascriptstartup
-Javascript demo appl;ication
+Javascript demo application
 2016 jitendra.
